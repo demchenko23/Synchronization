@@ -1,0 +1,17 @@
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\SynhronizationForPhone.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\ClassLibraryForDatabase.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\SynhronizationForPhone.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\bin\Debug\ClassLibraryForDatabase.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\SynhronizationForPhone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
